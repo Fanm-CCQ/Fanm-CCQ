@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fanm-CCQ
+- 👋 Hi, I’m Faisal.
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently working in CCQ PHN
 - 💞️ I’m looking to collaborate on Health relate Data z. 
